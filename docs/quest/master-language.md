@@ -188,6 +188,49 @@ For links to prepare yourself for interviews, check out the [Resources > Online 
 
 ## Flashcards
 
+### Rules of Knowledge Formulation
+
+Don't take my word for it, check out the [SuperMemo](https://supermemo.guru/wiki/20_rules_of_knowledge_formulation).
+
+1. Only delve into topics that you genuinely comprehend.
+2. Prioritize understanding before committing information to memory.
+3. Begin with foundational concepts before tackling complexities.
+4. Keep questions straightforward to facilitate better understanding.
+5. Utilize visuals to enhance memory retention.
+6. Familiarize yourself with mnemonic techniques, such as peg lists.
+7. Approach lists, sets, and enumerations with cloze deletion techniques (as demonstrated in this [video](https://www.youtube.com/watch?v=5ktH-TceHx8)).
+8. Personalize your learning experience by providing examples relevant to you.
+9. Harness the speed and mnemonic power of cloze deletion.
+10. Employ redundancy by approaching similar topics from different angles.
+11. Building comprehension can be integrated into the learning process, including creating cloze deletions for poorly understood phrases.
+12. Learning and memorization can occur simultaneously (refer to this [video](https://youtu.be/XRuLV2_A3Ts)).
+13. Initially, deal with complex items, simplifying them incrementally based on knowledge priority and time availability.
+14. Multiple cloze deletions on different formulations can substitute for mnemonic techniques (see [Knowledge Darwinism](https://supermemo.guru/wiki/Knowledge_darwinism)).
+15. Tackle lists, sets, and enumerations effectively with cloze deletion (as explained in this [video](https://youtu.be/AmpdWZEAX3Q)).
+16. Personalize your learning by adding your own stories to the texts you study. Be creatively elaborate.
+17. Use external references to enhance your understanding.
+18. When experiencing a decrease in enjoyment, revisit these rules to identify possible violations impacting your engagement.
+19. Strive for maximum applicability of acquired knowledge.
+20. Aim for the formulation of atomic memories set within a context of simplicity and comprehension.
+
+#### Cloze Deletion
+
+Cloze deletion is a technique used in learning and memorization, particularly in the context of spaced repetition and flashcard-based learning systems.
+It involves removing specific elements (words, phrases, or segments) from a piece of information, leaving gaps that the learner must fill in.
+
+Here's how cloze deletion typically works:
+
+1. **Original Text:**
+   "The capital of France is Paris."
+2. **Cloze Deletion:**
+   "The capital of France is _____."
+
+The learner would then try to recall the missing word or phrase, reinforcing their memory and understanding of the concept.
+This technique is effective in promoting active recall and engagement, making it a popular method in educational settings and with tools like Anki or SuperMemo for creating personalized flashcards.
+
+In the context of the 20 rules you provided, cloze deletion is recommended for handling lists, sets, enumerations, and for simplifying complex information during the learning process.
+It allows learners to focus on specific elements, test their understanding, and reinforce memory in a targeted manner.
+
 ### Guide to working with Flashcards
 
 Flashcards are a powerful tool for learning and understanding difficult concepts. Here's a simple guide on using flashcards effectively:
