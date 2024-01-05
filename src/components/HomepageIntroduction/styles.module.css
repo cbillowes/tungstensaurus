@@ -1,0 +1,26 @@
+.block {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.blockAlt {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+  background-color: #f1f1f1;
+}
+
+[data-theme="dark"] .blockAlt {
+  background-color: #101010;
+}
+
+.blockImage {
+  max-height: 85px;
+}
+
+.blockIcon {
+  font-size: 60px;
+}
