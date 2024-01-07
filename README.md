@@ -1,41 +1,17 @@
-# Website
+# Tungstensaurus
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+A quest to fill the gap to becoming a full-stack senior software engineer.
 
-### Installation
+## Introduction
 
-```
-$ yarn
-```
+It is entirely okay to have many years of experience and still not consider yourself a senior in the field.
+The title of "senior" often goes beyond just the number of years worked and encompasses a broader set of skills, leadership qualities, and a depth of experience in handling complex challenges.
 
-### Local Development
+It's commendable to acknowledge your current level and focus on continuous learning and skill development, as humility and a growth mindset are valued traits in the professional world.
+Being self-aware and open to growth opportunities can contribute positively to your career trajectory.
 
-```
-$ yarn start
-```
+## Disclaimer
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+I've built this website with the help of Chat GPT so some concepts could be a bit off or just plain wrong based on my misunderstandings.
+The idea is for Tungstensaurus (a Docusaurus web application) to become a community driven website where we can all learn from each other
+while embarking on this transformative journey with me as I set out on a quest to become a senior software engineer or at least polish up our skills.
