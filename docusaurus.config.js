@@ -40,10 +40,6 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        gtag: {
-          trackingID: 'G-Z376J20RNJ',
-          anonymizeIP: true,
-        },
         docs: {
           sidebarPath: './sidebars.js',
         },
@@ -51,6 +47,15 @@ const config = {
           customCss: './src/css/custom.css',
         },
       }),
+    ],
+    [
+      '@docusaurus/preset-classic',
+      {
+        gtag: {
+          trackingID: 'G-Z376J20RNJ',
+          anonymizeIP: true,
+        },
+      },
     ],
   ],
 
