@@ -75,6 +75,12 @@ const config = {
             label: 'Skills',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'resourcesSidebar',
+            position: 'left',
+            label: 'Resources',
+          },
+          {
             href: 'https://curiousprogrammer.dev',
             label: 'Blog',
             position: 'right',

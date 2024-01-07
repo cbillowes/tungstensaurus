@@ -84,7 +84,7 @@ To assess your skills, consider:
 
 - **Taking Online Skill Assessments:**\
   Some platforms offer assessments in various areas, allowing you to gauge your proficiency.\
-  For links to assess your skills, check out the [Resources > Online Platforms > Technical Assessments](/docs/quest/resources/online-platforms#technical-assessments) section.
+  For links to assess your skills, check out the [Resources > Online Platforms > Technical Assessments](/docs/resources/online-platforms#technical-assessments) section.
 
 - **Reviewing Past Work:**\
   Look at projects or code you've worked on in the past to evaluate your skills and coding style.
@@ -149,7 +149,7 @@ interview preparation, progress tracking, learning paths & courses, accessibilit
 Overall, online coding platforms serve as versatile tools for skill development, catering to beginners and experienced developers alike.
 They play a crucial role in creating a dynamic and interactive learning environment for individuals pursuing a career in software engineering.
 
-For links to play online, check out the [Resources > Online Platforms > Coding Platforms](/docs/quest/resources/online-platforms#coding-platforms) section.
+For links to play online, check out the [Resources > Online Platforms > Coding Platforms](/docs/resources/online-platforms#coding-platforms) section.
 
 ### Certifications
 
@@ -159,7 +159,7 @@ such as software development or cybersecurity.
 Employers often use certifications as a reliable benchmark for hiring decisions, ensuring you possess the necessary qualifications for the role.
 Additionally, certifications can open up career advancement opportunities, demonstrating a commitment to continuous learning and professional development.
 
-For links to certification websites, check out the [Resources > Online Platforms > Certifications](/docs/quest/resources/online-platforms#certifications) section.
+For links to certification websites, check out the [Resources > Online Platforms > Certifications](/docs/resources/online-platforms#certifications) section.
 
 ### Books, blogs, and videos
 
@@ -184,7 +184,7 @@ Mock interviews are beneficial as they provide a simulated, real-world experienc
 This preparation can help you gain confidence, improve communication skills, and identify areas for improvement in a low-stakes environment.
 Mock interviews, often facilitated by platforms like Pramp and interviewing.io, play a crucial role in enhancing your performance during actual job interviews in the software engineering field.
 
-For links to prepare yourself for interviews, check out the [Resources > Online Platforms > Interview Preparation](/docs/quest/resources/online-platforms#interview-preparation) section.
+For links to prepare yourself for interviews, check out the [Resources > Online Platforms > Interview Preparation](/docs/resources/online-platforms#interview-preparation) section.
 
 ## Flashcards
 
@@ -331,7 +331,7 @@ Getting hands-on practice to apply theoretical knowledge involves engaging in pr
 1. **Coding Challenges**\
    Participate in coding challenges on platforms like HackerRank, LeetCode, or CodeSignal. These challenges help you improve problem-solving skills and reinforce language syntax.
 
-   For links to coding challenge websites, check out the [Resources > Online Platforms > Coding Platforms](/docs/quest/resources/online-platforms#coding-platforms) section.
+   For links to coding challenge websites, check out the [Resources > Online Platforms > Coding Platforms](/docs/resources/online-platforms#coding-platforms) section.
 
 1. **Personal Projects**\
    Undertake personal coding projects aligned with your interests and learning goals. This allows you to apply theoretical concepts in a practical context.
@@ -341,7 +341,7 @@ Getting hands-on practice to apply theoretical knowledge involves engaging in pr
    Develop a portfolio showcasing your projects. This not only serves as evidence of your practical skills but also demonstrates your ability to complete and showcase projects to potential employers.
 
 1. **Open Source Contributions**\
-   Contribute to open source projects on platforms like GitHub. This provides exposure to collaborative coding, code reviews, and real-world development practices. For links to popular code review platforms, check out the [Resources > Online Platforms > Code Review Platforms](/docs/quest/resources/online-platforms#code-review-platforms) section.
+   Contribute to open source projects on platforms like GitHub. This provides exposure to collaborative coding, code reviews, and real-world development practices. For links to popular code review platforms, check out the [Resources > Online Platforms > Code Review Platforms](/docs/resources/online-platforms#code-review-platforms) section.
 
    The easiest way to get involved is to start by identifying projects aligned with your interests.
    Begin by exploring the project's documentation, issues, and contributing guidelines.
@@ -350,7 +350,7 @@ Getting hands-on practice to apply theoretical knowledge involves engaging in pr
 1. **Internships or Freelance Work**\
    Seek internships or freelance opportunities to work on real projects. This provides hands-on experience, exposure to industry practices, and the chance to collaborate with experienced professionals.
 
-   For links to internship and freelance websites, check out the [Resources > Online Platforms > Freelancing](/docs/quest/resources/online-platforms#freelancing) section.
+   For links to internship and freelance websites, check out the [Resources > Online Platforms > Freelancing](/docs/resources/online-platforms#freelancing) section.
 
 1. **Hackathons and Coding Challenges**\
    Participate in hackathons and coding challenges. These events often present real-world problems and tight deadlines, encouraging quick application of knowledge.
