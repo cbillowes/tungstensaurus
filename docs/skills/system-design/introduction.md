@@ -11,13 +11,6 @@ System design and understanding distributed systems is a crucial skill that beco
 Remember that system design is a skill that improves with practice and experience.
 Be patient with yourself, and continuously seek opportunities to apply and refine your knowledge.
 
-:::tip
-
-Follow the [action plan](/docs/quest/introduction#action-plan) to get the most out of this quest.
-Access resources [here](/docs/resources/introduction).
-
-:::
-
 :::danger
 
 Every design decision involves making trade-offs, and the optimal choices depend on the specific requirements, priorities, and constraints of the system being developed.

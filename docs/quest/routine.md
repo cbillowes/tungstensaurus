@@ -26,7 +26,7 @@ Here is an example of what you can do:
 
 ## Monthly
 
-- Identify your strengths and weaknesses in programming languages, data structures, and algorithms by completing one or more [assessments](./assessments). Refresh your core concepts, use online platforms (e.g., HackerRank, LeetCode) for self-assessment.
+- Identify your strengths and weaknesses in programming languages, data structures, and algorithms by completing one or more assessments. Refresh your core concepts, use online platforms (e.g., HackerRank, LeetCode) for self-assessment.
 - Practice explaining your thought process in mock technical interviews.
 - Create a blog post, audio file or video (or whatever) to share your learnings with the community.
 - Analyze and document the system design of a well-known application or write a clone of a popular application.

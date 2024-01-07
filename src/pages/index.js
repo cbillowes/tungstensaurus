@@ -23,7 +23,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className={clsx("button button--secondary button--lg", styles.ctaButton)}
-            to="/docs/quest/intro"
+            to="/docs/quest/introduction"
           >
             Start the quest
           </Link>
