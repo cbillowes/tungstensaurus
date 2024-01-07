@@ -46,16 +46,11 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-      }),
-    ],
-    [
-      '@docusaurus/preset-classic',
-      {
         gtag: {
           trackingID: 'G-Z376J20RNJ',
           anonymizeIP: true,
         },
-      },
+      }),
     ],
   ],
 
