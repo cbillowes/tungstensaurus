@@ -113,6 +113,23 @@ const config = {
             ],
           },
           {
+            title: 'Tungstensaurus',
+            items: [
+              {
+                label: 'Quest',
+                to: '/docs/quest/introduction',
+              },
+              {
+                label: 'Skills',
+                to: '/docs/category/system-design',
+              },
+              {
+                label: 'Resources',
+                to: '/docs/resources/introduction',
+              },
+            ],
+          },
+          {
             title: 'Must GOTO',
             items: [
               {
@@ -126,7 +143,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Curious Programmer - Tungstensaurus. Built with ❤️ with Docusaurus and Chat GPT.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Curious Programmer - Tungstensaurus. Built with ❤ by Clarice Bouwer using Docusaurus and Chat GPT pleb 3.5.`,
       },
       prism: {
         theme: prismThemes.github,
