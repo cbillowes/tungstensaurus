@@ -30,3 +30,5 @@ Here is an example of what you can do:
 - Practice explaining your thought process in mock technical interviews.
 - Create a blog post, audio file or video (or whatever) to share your learnings with the community.
 - Analyze and document the system design of a well-known application or write a clone of a popular application.
+
+![Desk with pixelated bonsai](img/pixelated-bonsai.webp)

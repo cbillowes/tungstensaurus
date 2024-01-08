@@ -16,6 +16,8 @@ Learning a programming language is like trying to fold a fitted sheet – an ong
 
 :::
 
+![Wizard kid](img/wizard-kid.webp)
+
 ## Languages
 
 Selecting a programming language is like choosing a wand – it depends on your wizardry goals, magical interests, and the enchanting projects you wish to conjure. Here's a glance at some popular programming languages, each with its unique charms:

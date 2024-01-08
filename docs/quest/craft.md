@@ -6,6 +6,8 @@ sidebar_position: 5
 
 The transition to senior is not just about technical skills but also about leadership, collaboration, and a broader understanding of the software development life cycle. Continuously improving in these areas will help you grow into a senior software engineering role.
 
+![Splashy laptop](img/splashy-laptop.webp)
+
 ## Mastery
 
 - Master at least one programming language and be proficient in others relevant to your domain.

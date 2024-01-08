@@ -21,6 +21,8 @@ This section serves as your treasure map for embracing a programming language no
 Emphasis is placed on the iterative dance of skill enhancement.
 So, buckle up as we guide you through this roadmap, steering you toward a mindset of perpetual learning.
 
+![Geeky guy with coffee in his hand](img/geeky-guy-with-coffee.webp)
+
 ## The Quest
 
 Alright, fellow coding adventurers, buckle up for the ultimate initiation into the coding realms!

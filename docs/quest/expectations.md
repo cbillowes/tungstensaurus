@@ -16,6 +16,8 @@ and that's a role that demands a wizard's level of knowledge and a dash of humor
 > The seniority of a developer cannot just be decided by their age, years of experience or technical knowledge that they have got.
 > There are other factors in play here — their perception of work, how they interact with their peers and how they approach problems.
 
+![Intense Jacked-Up computer workstation](img/orange-computer-station.webp)
+
 ### Leadership Quality
 
 - Demonstrate leadership qualities, like giving pep talks that could inspire a rock to roll uphill, or at least coding languages to compile seamlessly.
