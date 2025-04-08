@@ -90,6 +90,7 @@ They play a crucial role in creating a dynamic and interactive learning environm
 1. [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
 1. [freeCodeCamp](https://www.freecodecamp.org/)
 1. [Google Developers](https://developers.google.com/)
+1. [CoursesOnline](https://www.coursesonline.co.uk/)
 
 ## Code Review Platforms
 
